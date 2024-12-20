@@ -1,1 +1,1 @@
-# flight_status_dashboard
+This Power BI dashboard provides an interactive analysis of flight performance metrics, focusing on flight delays, cancellations, and on-time performance. The project aims to identify patterns and insights to help airlines and decision-makers optimize operations and improve efficiency.
